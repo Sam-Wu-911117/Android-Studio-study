@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ch6-1_Spinner</string>
+    <string-array name="cinemas">
+        <item>台北影城</item>
+        <item>板橋影城</item>
+        <item>台中影城</item>
+        <item>台南影城</item>
+        <item>高雄影城</item>
+    </string-array>
+    <string-array name="counts">
+        <item>第1場</item>
+        <item>第2場</item>
+        <item>第3場</item>
+        <item>第4場</item>
+        <item>第5場</item>
+    </string-array>
+</resources>

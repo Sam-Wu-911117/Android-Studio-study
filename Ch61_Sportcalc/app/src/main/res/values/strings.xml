@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">electricityFeeComputer</string>
+    <string-array name="volts">
+        <item>110V</item>
+        <item>220V</item>
+
+    </string-array>
+</resources>
