@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ch6-2_ListMenu</string>
+    <string-array name="menuItems">
+        <item>香菇</item>
+        <item>玉米</item>
+        <item>海帶</item>
+        <item>白蘿蔔</item>
+        <item>甜不辣</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ch6_ArrayAdapter</string>
+    <string-array name="drinkname">
+        <item>北部</item>
+        <item>中部</item>
+        <item>南部</item>
+        <item>東部</item>
+    </string-array>
+</resources>
